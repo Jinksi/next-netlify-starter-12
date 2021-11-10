@@ -15,7 +15,7 @@ export default function Home({ time }) {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <p>{time}<p>
+        <p>{time}</p>
       </main>
 
       <Footer />
